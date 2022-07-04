@@ -3,7 +3,7 @@ import "./Footer.css";
 
 export default function Footer() {
   return (
-    <span class='footer'>
+    <span className='footer'>
       <a href='https://github.com/MeganJWeeks/weather-react-app'>
         Open-source code
       </a>{" "}
